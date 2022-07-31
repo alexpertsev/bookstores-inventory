@@ -1,0 +1,104 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+0887307280:
+  isbn: '0887307280'
+  title: The E-Myth Revisited
+  author: Michael E. Gerber
+8098739634:
+  isbn: '8098739634'
+  title: Homo Deus
+  author: Yuval Noah Harari
+0385349947:
+  isbn: '0385349947'
+  title: Lean In
+  author: Sheryl Sandberg
+0142000280:
+  isbn: '0142000280'
+  title: Getting Things Done
+  author: David  Allen
+1451648537:
+  isbn: '1451648537'
+  title: Steve Jobs
+  author: Walter Isaacson
+0062273205:
+  isbn: '0062273205'
+  title: The Hard Thing About Hard Things
+  author: Ben Horowitz
+0812993012:
+  isbn: '0812993012'
+  title: Creativity, Inc.
+  author: Ed Catmull
+0804139296:
+  isbn: '0804139296'
+  title: Zero to One
+  author: Peter Thiel
+4732953903:
+  isbn: '4732953903'
+  title: The Subtle Art of Not Giving a F*ck
+  author: Mark Manson
+4037953173:
+  isbn: '4037953173'
+  title: Lying
+  author: Sam Harris
+0062871331:
+  isbn: '0062871331'
+  title: What You Do Is Who You Are
+  author: Ben Horowitz
+0751529818:
+  isbn: '0751529818'
+  title: Tuesdays with Morrie
+  author: Mitch Albom
+0062652508:
+  isbn: '0062652508'
+  title: Hit Refresh
+  author: Satya Nadella
+0316010669:
+  isbn: '0316010669'
+  title: Blink
+  author: Malcolm Gladwell
+6838580580:
+  isbn: '6838580580'
+  title: Sapiens
+  author: Yuval Noah Harari
+0316478520:
+  isbn: '0316478520'
+  title: Talking to Strangers
+  author: Malcolm Gladwell
+147670869X:
+  isbn: 147670869X
+  title: The Innovators
+  author: Walter Isaacson
+0751532711:
+  isbn: '0751532711'
+  title: Rich Dad, Poor Dad
+  author: Robert T. Kiyosaki
+9015971361:
+  isbn: '9015971361'
+  title: '1984'
+  author: George Orwell
+0393316041:
+  isbn: '0393316041'
+  title: Surely You're Joking, Mr. Feynman!
+  author: Richard P. Feynman
+0743269519:
+  isbn: '0743269519'
+  title: The 7 Habits of Highly Effective People
+  author: Stephen R. Covey
+0465067107:
+  isbn: '0465067107'
+  title: The Design of Everyday Things
+  author: Donald A. Norman
+0290975617:
+  isbn: '0290975617'
+  title: How to Win Friends and Influence People
+  author: Dale Carnegie
+9396523530:
+  isbn: '9396523530'
+  title: Think and Grow Rich
+  author: Napoleon Hill
+0553562835:
+  isbn: '0553562835'
+  title: Sam Walton
+  author: Sam Walton
+  
+  

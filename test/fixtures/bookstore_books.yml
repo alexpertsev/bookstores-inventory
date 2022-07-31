@@ -1,0 +1,256 @@
+---
+bks_record1:
+  bookstore: indigo
+  book: '0887307280'
+bks_record2:
+  bookstore: indigo
+  book: '0553562835'
+bks_record3:
+  bookstore: indigo
+  book: 9396523530
+bks_record4:
+  bookstore: indigo
+  book: 4037953173
+bks_record5:
+  bookstore: indigo
+  book: '0385349947'
+bks_record6:
+  bookstore: bookshelf
+  book: '0142000280'
+bks_record7:
+  bookstore: bookshelf
+  book: '0812993012'
+bks_record8:
+  bookstore: bookshelf
+  book: 147670869X
+bks_record9:
+  bookstore: bookshelf
+  book: '0887307280'
+bks_record10:
+  bookstore: bookshelf
+  book: 1451648537
+bks_record11:
+  bookstore: bookshelf
+  book: 13203077
+bks_record12:
+  bookstore: bookshelf
+  book: '0743269519'
+bks_record13:
+  bookstore: bookshelf
+  book: '0290975617'
+bks_record14:
+  bookstore: bookshelf
+  book: '0393316041'
+bks_record15:
+  bookstore: bookshelf
+  book: '0553562835'
+bks_record16:
+  bookstore: bookshelf
+  book: '0385349947'
+bks_record17:
+  bookstore: oddbook
+  book: 128366025
+bks_record18:
+  bookstore: oddbook
+  book: 4037953173
+bks_record19:
+  bookstore: oddbook
+  book: 4732953903
+bks_record20:
+  bookstore: oddbook
+  book: 147670869X
+bks_record21:
+  bookstore: oddbook
+  book: '0142000280'
+bks_record22:
+  bookstore: oddbook
+  book: 9396523530
+bks_record23:
+  bookstore: drawnquarterly
+  book: 147670869X
+bks_record24:
+  bookstore: drawnquarterly
+  book: 4037953173
+bks_record25:
+  bookstore: drawnquarterly
+  book: 9015971361
+bks_record26:
+  bookstore: drawnquarterly
+  book: '0887307280'
+bks_record27:
+  bookstore: drawnquarterly
+  book: '0062652508'
+bks_record28:
+  bookstore: drawnquarterly
+  book: '0142000280'
+bks_record29:
+  bookstore: drawnquarterly
+  book: '0743269519'
+bks_record30:
+  bookstore: whodunit
+  book: 9396523530
+bks_record31:
+  bookstore: whodunit
+  book: 1451648537
+bks_record32:
+  bookstore: whodunit
+  book: 147670869X
+bks_record33:
+  bookstore: whodunit
+  book: '0804139296'
+bks_record34:
+  bookstore: whodunit
+  book: 8098739634
+bks_record35:
+  bookstore: whodunit
+  book: 81030727
+bks_record36:
+  bookstore: whodunit
+  book: '0887307280'
+bks_record37:
+  bookstore: whodunit
+  book: 13203077
+bks_record38:
+  bookstore: mabels
+  book: '0887307280'
+bks_record39:
+  bookstore: mabels
+  book: '0553562835'
+bks_record40:
+  bookstore: mabels
+  book: 147670869X
+bks_record41:
+  bookstore: mabels
+  book: '0393316041'
+bks_record42:
+  bookstore: mabels
+  book: '0142000280'
+bks_record43:
+  bookstore: mabels
+  book: 9015971361
+bks_record44:
+  bookstore: mabels
+  book: '0316010669'
+bks_record45:
+  bookstore: mabels
+  book: '0062652508'
+bks_record46:
+  bookstore: mabels
+  book: 8098739634
+bks_record47:
+  bookstore: munro
+  book: '0316478520'
+bks_record48:
+  bookstore: munro
+  book: 4037953173
+bks_record49:
+  bookstore: munro
+  book: '0385349947'
+bks_record50:
+  bookstore: munro
+  book: '0743269519'
+bks_record51:
+  bookstore: munro
+  book: 81030727
+bks_record52:
+  bookstore: munro
+  book: 128366025
+bks_record53:
+  bookstore: munro
+  book: '0804139296'
+bks_record54:
+  bookstore: munro
+  book: 6838580580
+bks_record55:
+  bookstore: munro
+  book: '0062871331'
+bks_record56:
+  bookstore: munro
+  book: '0553562835'
+bks_record57:
+  bookstore: cafebooks
+  book: 13203077
+bks_record58:
+  bookstore: cafebooks
+  book: 4037953173
+bks_record59:
+  bookstore: cafebooks
+  book: 9015971361
+bks_record60:
+  bookstore: cafebooks
+  book: '0553562835'
+bks_record61:
+  bookstore: cafebooks
+  book: 81030727
+bks_record62:
+  bookstore: cafebooks
+  book: '0812993012'
+bks_record63:
+  bookstore: bisonbooks
+  book: '0142000280'
+bks_record64:
+  bookstore: bisonbooks
+  book: '0751529818'
+bks_record65:
+  bookstore: bisonbooks
+  book: '0743269519'
+bks_record66:
+  bookstore: bisonbooks
+  book: 4732953903
+bks_record67:
+  bookstore: bisonbooks
+  book: '0316478520'
+bks_record68:
+  bookstore: bisonbooks
+  book: '0812993012'
+bks_record69:
+  bookstore: bisonbooks
+  book: 1451648537
+bks_record70:
+  bookstore: mcnally
+  book: 1451648537
+bks_record71:
+  bookstore: mcnally
+  book: '0751529818'
+bks_record72:
+  bookstore: mcnally
+  book: 9396523530
+bks_record73:
+  bookstore: mcnally
+  book: 147670869X
+bks_record74:
+  bookstore: mcnally
+  book: '0290975617'
+bks_record75:
+  bookstore: mcnally
+  book: '0553562835'
+bks_record76:
+  bookstore: mcnally
+  book: '0142000280'
+bks_record77:
+  bookstore: mcnally
+  book: '0804139296'
+bks_record78:
+  bookstore: mcnally
+  book: 8098739634
+bks_record79:
+  bookstore: spartacus
+  book: '0804139296'
+bks_record80:
+  bookstore: spartacus
+  book: 147670869X
+bks_record81:
+  bookstore: spartacus
+  book: '0553562835'
+bks_record82:
+  bookstore: spartacus
+  book: 4037953173
+bks_record83:
+  bookstore: spartacus
+  book: '0887307280'
+bks_record84:
+  bookstore: spartacus
+  book: 4732953903
+bks_record85:
+  bookstore: spartacus
+  book: 81030727

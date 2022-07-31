@@ -1,0 +1,256 @@
+---
+il_record1:
+  bookstore_book: bks_record1
+  stock_level: 10
+il_record2:
+  bookstore_book: bks_record2
+  stock_level: 2
+il_record3:
+  bookstore_book: bks_record3
+  stock_level: 2
+il_record4:
+  bookstore_book: bks_record4
+  stock_level: 6
+il_record5:
+  bookstore_book: bks_record5
+  stock_level: 0
+il_record6:
+  bookstore_book: bks_record6
+  stock_level: 7
+il_record7:
+  bookstore_book: bks_record7
+  stock_level: 3
+il_record8:
+  bookstore_book: bks_record8
+  stock_level: 8
+il_record9:
+  bookstore_book: bks_record9
+  stock_level: 8
+il_record10:
+  bookstore_book: bks_record10
+  stock_level: 8
+il_record11:
+  bookstore_book: bks_record11
+  stock_level: 7
+il_record12:
+  bookstore_book: bks_record12
+  stock_level: 10
+il_record13:
+  bookstore_book: bks_record13
+  stock_level: 7
+il_record14:
+  bookstore_book: bks_record14
+  stock_level: 1
+il_record15:
+  bookstore_book: bks_record15
+  stock_level: 0
+il_record16:
+  bookstore_book: bks_record16
+  stock_level: 1
+il_record17:
+  bookstore_book: bks_record17
+  stock_level: 9
+il_record18:
+  bookstore_book: bks_record18
+  stock_level: 6
+il_record19:
+  bookstore_book: bks_record19
+  stock_level: 5
+il_record20:
+  bookstore_book: bks_record20
+  stock_level: 9
+il_record21:
+  bookstore_book: bks_record21
+  stock_level: 6
+il_record22:
+  bookstore_book: bks_record22
+  stock_level: 10
+il_record23:
+  bookstore_book: bks_record23
+  stock_level: 6
+il_record24:
+  bookstore_book: bks_record24
+  stock_level: 8
+il_record25:
+  bookstore_book: bks_record25
+  stock_level: 0
+il_record26:
+  bookstore_book: bks_record26
+  stock_level: 10
+il_record27:
+  bookstore_book: bks_record27
+  stock_level: 3
+il_record28:
+  bookstore_book: bks_record28
+  stock_level: 0
+il_record29:
+  bookstore_book: bks_record29
+  stock_level: 7
+il_record30:
+  bookstore_book: bks_record30
+  stock_level: 5
+il_record31:
+  bookstore_book: bks_record31
+  stock_level: 2
+il_record32:
+  bookstore_book: bks_record32
+  stock_level: 6
+il_record33:
+  bookstore_book: bks_record33
+  stock_level: 10
+il_record34:
+  bookstore_book: bks_record34
+  stock_level: 0
+il_record35:
+  bookstore_book: bks_record35
+  stock_level: 4
+il_record36:
+  bookstore_book: bks_record36
+  stock_level: 6
+il_record37:
+  bookstore_book: bks_record37
+  stock_level: 9
+il_record38:
+  bookstore_book: bks_record38
+  stock_level: 9
+il_record39:
+  bookstore_book: bks_record39
+  stock_level: 3
+il_record40:
+  bookstore_book: bks_record40
+  stock_level: 6
+il_record41:
+  bookstore_book: bks_record41
+  stock_level: 5
+il_record42:
+  bookstore_book: bks_record42
+  stock_level: 6
+il_record43:
+  bookstore_book: bks_record43
+  stock_level: 9
+il_record44:
+  bookstore_book: bks_record44
+  stock_level: 7
+il_record45:
+  bookstore_book: bks_record45
+  stock_level: 7
+il_record46:
+  bookstore_book: bks_record46
+  stock_level: 1
+il_record47:
+  bookstore_book: bks_record47
+  stock_level: 8
+il_record48:
+  bookstore_book: bks_record48
+  stock_level: 5
+il_record49:
+  bookstore_book: bks_record49
+  stock_level: 8
+il_record50:
+  bookstore_book: bks_record50
+  stock_level: 4
+il_record51:
+  bookstore_book: bks_record51
+  stock_level: 4
+il_record52:
+  bookstore_book: bks_record52
+  stock_level: 9
+il_record53:
+  bookstore_book: bks_record53
+  stock_level: 10
+il_record54:
+  bookstore_book: bks_record54
+  stock_level: 2
+il_record55:
+  bookstore_book: bks_record55
+  stock_level: 3
+il_record56:
+  bookstore_book: bks_record56
+  stock_level: 7
+il_record57:
+  bookstore_book: bks_record57
+  stock_level: 4
+il_record58:
+  bookstore_book: bks_record58
+  stock_level: 10
+il_record59:
+  bookstore_book: bks_record59
+  stock_level: 6
+il_record60:
+  bookstore_book: bks_record60
+  stock_level: 6
+il_record61:
+  bookstore_book: bks_record61
+  stock_level: 2
+il_record62:
+  bookstore_book: bks_record62
+  stock_level: 8
+il_record63:
+  bookstore_book: bks_record63
+  stock_level: 9
+il_record64:
+  bookstore_book: bks_record64
+  stock_level: 5
+il_record65:
+  bookstore_book: bks_record65
+  stock_level: 3
+il_record66:
+  bookstore_book: bks_record66
+  stock_level: 9
+il_record67:
+  bookstore_book: bks_record67
+  stock_level: 7
+il_record68:
+  bookstore_book: bks_record68
+  stock_level: 5
+il_record69:
+  bookstore_book: bks_record69
+  stock_level: 3
+il_record70:
+  bookstore_book: bks_record70
+  stock_level: 10
+il_record71:
+  bookstore_book: bks_record71
+  stock_level: 4
+il_record72:
+  bookstore_book: bks_record72
+  stock_level: 4
+il_record73:
+  bookstore_book: bks_record73
+  stock_level: 7
+il_record74:
+  bookstore_book: bks_record74
+  stock_level: 1
+il_record75:
+  bookstore_book: bks_record75
+  stock_level: 5
+il_record76:
+  bookstore_book: bks_record76
+  stock_level: 8
+il_record77:
+  bookstore_book: bks_record77
+  stock_level: 6
+il_record78:
+  bookstore_book: bks_record78
+  stock_level: 10
+il_record79:
+  bookstore_book: bks_record79
+  stock_level: 3
+il_record80:
+  bookstore_book: bks_record80
+  stock_level: 8
+il_record81:
+  bookstore_book: bks_record81
+  stock_level: 0
+il_record82:
+  bookstore_book: bks_record82
+  stock_level: 3
+il_record83:
+  bookstore_book: bks_record83
+  stock_level: 10
+il_record84:
+  bookstore_book: bks_record84
+  stock_level: 1
+il_record85:
+  bookstore_book: bks_record85
+  stock_level: 4

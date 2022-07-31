@@ -5,7 +5,7 @@ class BookstoresTest < ApplicationSystemTestCase
     @bookstore = Bookstore.first
   end
 
-  test "Showing a quote" do
+  test "Showing a bookstore" do
     visit bookstores_path
     click_link @bookstore.name
 
