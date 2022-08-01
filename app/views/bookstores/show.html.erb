@@ -7,4 +7,12 @@
       <%= @bookstore.name %>
     </h1>
   </div>
+
+  <div class="bookstore-book">
+   <div class="bookstore-book__header with_border">
+      <h2 class="bookstore-book__title">Title (Author)</h2>
+      <h2 class="bookstore-book__title">Stock Level</h2>
+   </div>
+  </div>
+  <%= render @bookstore_books %>
 </main>

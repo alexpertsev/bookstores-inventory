@@ -3,7 +3,11 @@ class BookstoreBook < ApplicationRecord
   belongs_to :book
   has_one :inventory_level, dependent: :destroy
   
-  #TODO: create Inventory Level with stock level 0 every time this
-  # record is created...Because update inventory / add / remove should work
-  # with existing stock level unless we would like to check for null...
+  after_commit :init_inventory_level, on: :create
+
+  private
+
+  def init_inventory_level
+    self.create_inventory_level!
+  end
 end

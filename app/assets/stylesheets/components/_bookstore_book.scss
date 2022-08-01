@@ -1,0 +1,29 @@
+.bookstore-book {
+  margin-top: var(--space-xl);
+  margin-bottom: var(--space-xxs);
+
+  &__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-xs);
+	
+	&.with_border {
+	  border-bottom: black;
+	  border-bottom-style: solid;
+	  border-bottom-color: var(--color-border);
+	}
+  }
+  
+  &__title {
+    font-size: var(--font-size-xl);
+
+    @include media(tabletAndUp) {
+      font-size: var(--font-size-xxl);
+    }
+	
+	&__out_of_stock {
+	  color: var(--color-primary);	
+	}
+  }
+}
