@@ -1,11 +1,13 @@
-<div class="bookstore-book">
+<%= turbo_frame_tag bookstore_book do %>
+  <div class="bookstore-book">
 	<div class="bookstore-book__header">
 		<h2 class="bookstore-book__title">
-			<%= bookstore_book.book.title %> (<%= bookstore_book.book.author %>)
+		  <%= bookstore_book.book.title %> (<%= bookstore_book.book.author %>)
 		</h2>
 
 		<h2 class="bookstore-book__title">
-		    <%= display_stock_level(bookstore_book.inventory_level.stock_level) %>	
+		  <%= display_stock_level(bookstore_book.inventory_level.stock_level) %>
 		</h2>
 	</div>
-</div>
+  </div>
+<% end %>
