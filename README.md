@@ -11,6 +11,7 @@ Then `bin/setup` and `bin/dev` to run the server (localhost:2000).
 ## API
 
 List of Books:  curl 'http://localhost:2000/api/books'
+
 List of Bookstores: curl 'http://localhost:2000/api/bookstores'
 
 For specific bookstore:
