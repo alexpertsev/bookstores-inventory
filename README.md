@@ -8,6 +8,8 @@ After clone run `bundle install`.
 
 Then `bin/setup` and `bin/dev` to run the server (localhost:2000).
 
+To run integration API tests, run `bundle exec rspec spec`
+
 ## API
 
 List of Books:  curl 'http://localhost:2000/api/books'

@@ -3,7 +3,7 @@ class StockLevelUpdateException < StandardError; end
 class InventoryLevel < ApplicationRecord
 
   after_update_commit ->(inventory_level) { broadcast_replace_later_to *broadcast_params(inventory_level) }
-  after_create_commit ->(inventory_level) { broadcase_prepend_later_to *broadcast_params(inventory_level) }
+  after_create_commit ->(inventory_level) { broadcast_prepend_later_to *broadcast_params(inventory_level) }
   after_destroy_commit ->(inventory_level) { broadcast_remove_to inventory_level.bookstore_book.bookstore,
                                              target: inventory_level.bookstore_book
                                            }
