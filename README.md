@@ -1,24 +1,33 @@
-# README
+# Bookstores Inventory
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Implementation of stock levels task based on Rails 6.1.6.1 (with esbuild) using Postgres.
 
-Things you may want to cover:
+## Installing
 
-* Ruby version
+After clone run `bundle install`.
 
-* System dependencies
+Then `bin/setup` and `bin/dev` to run the server (localhost:2000).
 
-* Configuration
+## API
 
-* Database creation
+List of Books:  curl 'http://localhost:2000/api/books'
+List of Bookstores: curl 'http://localhost:2000/api/bookstores'
 
-* Database initialization
+For specific bookstore:
 
-* How to run the test suite
+- Fetch stock level:
+  - Required Parameters: `bookstore_id`
+  - Example: `curl 'http://localhost:2000/api/:bookstore_stock_level?bookstore_id=<some_id>'`
+- Update stock level:
+  - Required Parameters: `bookstore_id`, `book_id`, `stock_level`, `operation`
+  - Valid `operation` values are either 'add' or 'remove'
+  - Example `curl -X Post -d '{ "bookstore_id": 1019750225, "book_id": 1038543781, "stock_level": 5, "operation": "add"}' -H "Content-Type: application/json" 'http://localhost:2000/api/:bookstore_stock_level'`
+- Create stock level:
+  - Required Parameters: `bookstore_id`, `book_id`, `stock_level`
+  - Example `curl -X Post -d '{ "bookstore_id": 1019750225, "book_id": 1038543781, "stock_level": 5}' -H "Content-Type: application/json" 'http://localhost:2000/api/:bookstore_stock_level'`
 
-* Services (job queues, cache servers, search engines, etc.)
+Deleting a book: `curl -X DELETE http://localhost:2000/api/books/:id -H "Accept: application/json"`
 
-* Deployment instructions
+Stock levels for specific bookstore are updated on the page using Turbo Streams.
 
-* ...
+
