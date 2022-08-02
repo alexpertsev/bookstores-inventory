@@ -13,9 +13,6 @@ Then `bin/setup` and `bin/dev` to run the server (localhost:2000).
 List of Books:  curl 'http://localhost:2000/api/books'
 List of Bookstores: curl 'http://localhost:2000/api/bookstores'
 
-curl -X PATCH -d '{ "bookstore_id": 1019750225, "book_id": 1038543781, "stock_level": 5, "operation": "add"}' -H "Content-Type: application/json" 'http://localhost:2000/api/bookstore_stock_level'
-
-
 For specific bookstore:
 
 - Fetch stock level:
