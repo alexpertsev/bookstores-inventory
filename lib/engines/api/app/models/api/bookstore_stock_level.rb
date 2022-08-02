@@ -58,8 +58,10 @@ module Api
            end
          rescue StockLevelUpdateException => ex
            errors.add(:base, ex.message)    
-         end        
-      end  
+         end
+      end
+
+      return false
     end
     
     def self.to_json(bookstore_book)
