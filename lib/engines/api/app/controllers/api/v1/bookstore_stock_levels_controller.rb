@@ -23,9 +23,9 @@ module Api
         result = stock_level.create
         
         if result
-          render_success('Stock level is updated', result, status: :ok)
+          render_success('Stock level is created', result, status: :ok)
         else   
-          render_failure('Could not update stock level', stock_level.formatted_errors, status: :bad_request)
+          render_failure('Could not create stock level', stock_level.formatted_errors, status: :bad_request)
         end  
       end  
       

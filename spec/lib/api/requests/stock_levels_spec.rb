@@ -4,11 +4,6 @@ describe 'Fetch, Create, Update Stock Levels API', type: :request do
   fixtures :bookstores
   fixtures :books
 
-  let(:bookstore_book) { FactoryBot.create(:bookstore_book, { book_id: books(:"0887307280"), 
-                                                              bookstore_id: bookstores(:indigo) })}
-  let(:inventory_level) { FactoryBot.create(:inventory_level, { bookstore_book_id: bookstore_book.id, 
-                                                                stock_level: 10 }) }                                                          
-
   describe 'GET /bookstore_stock_level' do
           
     it 'should return books stock levels for specific bookstore' do
@@ -16,7 +11,7 @@ describe 'Fetch, Create, Update Stock Levels API', type: :request do
       
       expect(response).to have_http_status(:ok)
       result = JSON.parse(response.body).deep_symbolize_keys
-      expect(result[:result].first[:book_id]).to eq(books(:"0887307280").id)
+      expect(result[:result].first[:book_id]).to eq(bookstores(:indigo).books.first.id)
     end  
     
     it 'should report an error if bookstore_id is missing' do

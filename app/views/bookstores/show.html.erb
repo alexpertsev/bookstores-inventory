@@ -16,5 +16,7 @@
       <h2 class="bookstore-book__title">Stock Level</h2>
    </div>
   </div>
-  <%= render @bookstore_books %>
+  <%= turbo_frame_tag @bookstore do %>
+    <%= render @bookstore_books %>
+  <% end %>
 </main>
