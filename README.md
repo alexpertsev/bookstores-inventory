@@ -12,9 +12,9 @@ To run integration API tests, run `bundle exec rspec spec`
 
 ## API
 
-List of Books:  curl 'http://localhost:2000/api/books'
+List of Books: `curl 'http://localhost:2000/api/books'`
 
-List of Bookstores: curl 'http://localhost:2000/api/bookstores'
+List of Bookstores: `curl 'http://localhost:2000/api/bookstores'`
 
 For specific bookstore:
 
